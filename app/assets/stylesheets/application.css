@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+input[type="text"] {
+  color: blue;
+  border-color: black;
+  padding: 10px;
+  border: 1;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
